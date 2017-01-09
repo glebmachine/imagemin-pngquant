@@ -1,6 +1,6 @@
 {
   "name": "imagemin-pngquant",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "pngquant imagemin plugin",
   "license": "MIT",
   "repository": "imagemin/imagemin-pngquant",
@@ -42,7 +42,7 @@
   "dependencies": {
     "exec-buffer": "^3.0.0",
     "is-png": "^1.0.0",
-    "pngquant-bin": "^3.0.0"
+    "pngquant-bin": "bubujka/pngquant-bin"
   },
   "devDependencies": {
     "ava": "*",
